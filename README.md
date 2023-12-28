@@ -23,3 +23,7 @@ Transfer learning has become one of the most common techniques that has achieved
 
 2) **Getting Started with Enterprise-grade AI**
      https://www.credly.com/earner/earned/badge/a0f3d28f-183e-42f4-8d39-63803b37ca92
+   
+4) **Building Trustworthy AI Enterprise Solutions**
+    https://www.credly.com/earner/earned/share/7314902e-954b-476e-94d5-b02de9532dd9
+   
